@@ -1,5 +1,4 @@
-
-package  mx.heriberto.examples;
+package mx.heriberto.examples;
 
 public class test {
 
